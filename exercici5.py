@@ -12,7 +12,6 @@ def separador(exercici):
 
 separador(1)
 
-'''
 import time
 
 for i in range(1,6):
@@ -124,7 +123,7 @@ for caracter in frase:
         contador += 1
 
 print(f"la letra {letra} aparece {contador} vezes en la frase")
-'''
+
 separador(10)
 
 blocks = int(input("Ingresa el número de bloques: "))
